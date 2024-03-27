@@ -9,5 +9,5 @@ The data has been collected from an online study of 410 mother-infant pairs. Thi
 
 > Sandoz V, Lacroix A, Stuijfzand S, Bickle Graz M, Horsch A. Maternal Mental Health Symptom Profiles and Infant Sleep: A Cross-Sectional Survey. Diagnostics. 2022; 12(7):1625.
 
-The data can also be downloaded from Zenodo: https://zenodo.org/records/5070945#.Y8Oq4NJBwUE  (Dataset_maternal_mental_health_infant_sleep.csv). However, **please use the data_input.csv file contained in this repository**, as the data from Zenodo contain some formatting errors.
+The data can also be downloaded from Zenodo: https://zenodo.org/records/5070945#.Y8Oq4NJBwUE  (Dataset_maternal_mental_health_infant_sleep.csv). However, **please use the data_input.csv file contained in this repository**, as the data from Zenodo contain some formatting errors, as well as variables which are not of interest for this workshop.
 
