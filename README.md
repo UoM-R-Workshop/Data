@@ -1,7 +1,7 @@
 <!-- WELCOME  -->
 ## Data
 
-This repository contains the data we will be analysing. Please download the following csv file: [data_input.csv](https://github.com/UoM-R-Workshop/Data/blob/dc90c6254e8ad9c5d305809a228d93863f41b910/data_input.csv).
+This repository contains the data we will be analysing. Please download the data_input csv file, which is listed above.
 
 To download the file, click the three dots at the top of the page and click 'Download', click the save icon, or simply press Ctrl + shift + S.
 
